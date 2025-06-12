@@ -20,3 +20,15 @@ It depends on environment, distances, your personal needs and how much money you
 Like many others i started with an affordable spotting scope with 20 to 45 magnification. Not bad. Works for 25m and also for 50m even with .22lfr. But a bit uncomfortable to watch through so there was the idea to use a camera and a display. Bird spotter do that, why not. Looks easy.
 
 And so i opened a can of worms...
+
+Android Devices with OTG and USB-Camera
+
+Very inconsistent!
+
+There are USB camera devices which work on some android devices and do not on others up to breaking the whole device down. So the assumption is: it works ... maybe.
+
+All of them work with Windows PCs so my assumption is that the android OTG stack is not very reliable, depending on chipset, whatever
+
+Samsung A6  works with SV-USB4KCAM01H-CFV but not good with SV-USB8MP02G-SFV and my 1920x1080ELP
+Samsung A52S works not with SV-USB4KCAM01H-CFV but good with SV-USB8MP02G-SFV and my 1920x1080ELP
+Samsung Tab A9 works not with with SV-USB8MP02G-SFV, reboots, also not with my SV-USB4KCAM01H-CFV, not even recognized, but with my 1920x1080ELP
